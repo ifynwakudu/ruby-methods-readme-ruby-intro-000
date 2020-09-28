@@ -4,4 +4,3 @@ def phrase
 end
 
 phrase
-name
