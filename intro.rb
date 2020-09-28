@@ -1,5 +1,5 @@
 def greeting
-  users = ["Hannah", "Morgan", "Jody"]
+  users = ["Hannah","Morgan","Jody"]
   puts "Hello", users, "Welcome Back!"
 end
 
