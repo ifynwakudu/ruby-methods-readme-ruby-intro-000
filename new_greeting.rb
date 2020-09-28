@@ -1,6 +1,6 @@
 def phrase
   def name 
-  puts "Welcome Back," puts "Hannah!"
+  puts "Welcome Back," "Hannah!"
 end
 
 phrase
