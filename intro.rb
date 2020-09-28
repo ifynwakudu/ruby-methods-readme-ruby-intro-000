@@ -1,6 +1,6 @@
 def greeting
   ["Hannah", "Morgan", "Jody"]
-  puts "Hello", "username", "Welcome Back!"
+  puts "Hello" (1), "Welcome Back!"
 end
 
 greeting
