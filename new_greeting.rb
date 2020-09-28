@@ -1,6 +1,7 @@
 def phrase
-  name = "Hannah"
-  puts "Welcome Back, "name"!"
+  def name 
+  puts "Welcome Back," puts "Hannah!"
 end
 
 phrase
+name
