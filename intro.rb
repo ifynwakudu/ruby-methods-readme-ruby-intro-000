@@ -1,6 +1,6 @@
 def greeting
   username = "Hannah"
-  puts "Hello username", "Welcome Back!"
+  puts "Hello ", "Welcome Back!"
 end
 
 greeting
