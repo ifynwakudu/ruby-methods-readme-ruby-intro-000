@@ -7,3 +7,9 @@ greeting
 greeting
 greeting
 greeting
+
+def name
+  puts "Ifeoma"
+  puts "Amanda"
+  puts "Nwakudu"
+end
