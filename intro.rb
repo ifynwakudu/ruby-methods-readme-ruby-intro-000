@@ -1,6 +1,6 @@
 def greeting
   users = ["Hannah", "Morgan", "Jody"]
-  puts "Hello", 2, "Welcome Back!"
+  puts "Hello", users, "Welcome Back!"
 end
 
 greeting
