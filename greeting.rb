@@ -14,3 +14,6 @@ def name
   puts "Nwakudu"
 end
 
+name 
+name 
+name
